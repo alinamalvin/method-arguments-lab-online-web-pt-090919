@@ -1,2 +1,2 @@
-def instroduction 
+def instroduction (name)
 end
